@@ -66,9 +66,9 @@ Currently building hands-on projects to bridge the gap between learning and real
  
 <div align="center">
  
-![Sujit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujitShrestha4222&show_icons=true&theme=default&hide_border=true&count_private=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujitShrestha4222&layout=compact&theme=default&hide_border=true)
+![Sujit's GitHub Stats](https://streak-stats.demolab.com?user=SujitShrestha4222&hide_border=true)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujitShrestha4222)
  
 </div>
  
