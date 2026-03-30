@@ -78,7 +78,7 @@ Currently building hands-on projects to bridge the gap between learning and real
  
 I'm actively looking for opportunities in data analytics. If you're hiring or know of a role, I'd love to chat.
  
-**📧** your.email@gmail.com · **💼** [LinkedIn](https://linkedin.com/in/your-username)
+**📧** sujitxtha4222@gmail.com · **💼** [LinkedIn](https://www.linkedin.com/in/sujit-shrestha-2a720935b/)
  
 ---
  
