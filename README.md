@@ -2,7 +2,8 @@
  
 # Hi, I'm Sujit 👋
  
-**Aspiring Data Analyst** · Turning raw data into clear stories
+## Aspiring Data Analyst
+***Turning raw data into stories🎨🖼. Either numbers or words -🪄✨️ Both needs a good editor.🪄✨️***
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-shrestha-2a720935b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SujitShrestha4222)
