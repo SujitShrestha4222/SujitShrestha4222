@@ -56,7 +56,7 @@ Currently building hands-on projects to bridge the gap between learning and real
 | Project | Description | Tools |
 |--------|-------------|-------|
 | 🔍 [Web Scraper + Analysis](https://github.com/your-username/web-scraping-projects) | Scraped real-world data using Selenium, cleaned it with Pandas, and visualized trends | Python · Selenium · Pandas · Matplotlib |
-| 📊 [Data Analysis Projects](https://github.com/your-username/data-analysis-projects) | End-to-end EDA on multiple datasets with actionable insights | Python · Pandas · Seaborn |
+| 📊 [End to End Retail Sales Analysis]([https://github.com/your-username/data-analysis-projects](https://github.com/SujitShrestha4222/End-to-End-Retail-Sales-Analysis)) | Data Cleaning & Business insights of retail & Ml model use for Sales prediction | Python · Pandas · Seaborn · Matplotlib |
 | 🗄 [SQL Case Studies](https://github.com/your-username/sql-case-studies) | Business-focused SQL queries solving real analytical problems | SQL · MySQL |
 | 📈 [Dashboard Projects](https://github.com/your-username/dashboard-projects) | Interactive dashboards built for storytelling with data | Tableau · Power BI · Plotly |
  
