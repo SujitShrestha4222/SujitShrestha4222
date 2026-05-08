@@ -1,6 +1,7 @@
 <div align="center">
  
 # Hi 👋 I'm Sujit Shrestha
+
 ##### Aspiring Data Analyst & AI/ML Engineer
 ##### 📊 Passionate about Python, SQL, Machine Learning & CNN Projects
 ##### 🚀 Currently building projects in AI, Data Analysis, Automation & Streamlit
@@ -22,8 +23,8 @@
 I'm an aspiring **Data Analyst** focused on building real-world projects in analytics, machine learning, and business intelligence.
 Currently building hands-on projects to bridge the gap between learning and real-world work.
  
-- 🌱 Learning: **Data Analysis / AI & ML · SQL · Python · Visualization**
-- 🔍 Open to: **Data Analyst/ AI & ML / Junior Data Analyst internships and full-time roles**
+- 🌱 Learning: **Data Analysis / Data Analysis · Machine Learning · SQL · Python · Data Visualization **
+- 🔍 Open to: **Data Analyst/ Machine Learning / Junior Data Analyst internships and full-time roles**
 - 📍 Based in Kathmandu, Nepal
  
 ---
