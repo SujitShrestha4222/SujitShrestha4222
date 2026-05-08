@@ -22,8 +22,8 @@
 I'm an aspiring **Data Analyst** focused on building real-world projects in analytics, machine learning, and business intelligence.
 Currently building hands-on projects to bridge the gap between learning and real-world work.
  
-- 🌱 Learning: **Data Analysis · SQL · Python · Visualization**
-- 🔍 Open to: **Data Analyst / Junior Data Analyst internships and full-time roles**
+- 🌱 Learning: **Data Analysis / AI & ML · SQL · Python · Visualization**
+- 🔍 Open to: **Data Analyst/ AI & ML / Junior Data Analyst internships and full-time roles**
 - 📍 Based in Kathmandu, Nepal
  
 ---
