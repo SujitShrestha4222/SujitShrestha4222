@@ -1,10 +1,16 @@
 <div align="center">
  
-# Hi, I'm Sujit 👋
- 
-## Aspiring Data Analyst
-***Turning raw data into stories🎨🖼. Either numbers or words -🪄✨️ Both needs a good editor.🪄✨️***
- 
+# Hi 👋 I'm Sujit Shrestha
+##### Aspiring Data Analyst & AI/ML Engineer
+##### 📊 Passionate about Python, SQL, Machine Learning & CNN Projects
+##### 🚀 Currently building projects in AI, Data Analysis, Automation & Streamlit
+
+---
+
+***Turning raw data into meaningful stories/insights through analysis, visualization, and storytelling.***
+
+***Either numbers or words - Both needs a good editor.***
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-shrestha-2a720935b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SujitShrestha4222)
  
@@ -13,8 +19,7 @@
 ---
  
 ## About Me
- 
-I'm a fresher actively seeking my first **Data Analyst** role or internship.  
+I'm an aspiring **Data Analyst** focused on building real-world projects in analytics, machine learning, and business intelligence.
 Currently building hands-on projects to bridge the gap between learning and real-world work.
  
 - 🌱 Learning: **Data Analysis · SQL · Python · Visualization**
@@ -29,23 +34,27 @@ Currently building hands-on projects to bridge the gap between learning and real
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
  
-**Data & Analysis**  
+**Data & Analysis / AI & ML**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
- 
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+
 **Visualization**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3C7EBB?style=flat)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
- 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
 **Tools**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
  
 ---
  
@@ -56,7 +65,7 @@ Currently building hands-on projects to bridge the gap between learning and real
 | Project | Description | Tools |
 |--------|-------------|-------|
 | 🔍 [Web Scraper + Analysis](https://github.com/your-username/web-scraping-projects) | Scraped real-world data using Selenium, cleaned it with Pandas, and visualized trends | Python · Selenium · Pandas · Matplotlib |
-| 📊 [End to End Retail Sales Analysis]([https://github.com/your-username/data-analysis-projects](https://github.com/SujitShrestha4222/End-to-End-Retail-Sales-Analysis)) | Data Cleaning & Business insights of retail & Ml model use for Sales prediction | Python · Pandas · Seaborn · Matplotlib |
+| 📊 [End to End Retail Sales Analysis](https://github.com/SujitShrestha4222/End-to-End-Retail-Sales-Analysis) | Performed end-to-end retail sales analysis including data cleaning, exploratory data analysis, visualization, and machine learning-based sales prediction. | Python · Pandas · Seaborn · Matplotlib |
 | 🗄 [SQL Case Studies](https://github.com/your-username/sql-case-studies) | Business-focused SQL queries solving real analytical problems | SQL · MySQL |
 | 📈 [Dashboard Projects](https://github.com/your-username/dashboard-projects) | Interactive dashboards built for storytelling with data | Tableau · Power BI · Plotly |
  
