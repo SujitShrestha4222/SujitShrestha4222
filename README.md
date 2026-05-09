@@ -2,9 +2,9 @@
  
 # Hi 👋 I'm Sujit Shrestha
 
-##### Aspiring Data Analyst & AI/ML Engineer
-##### 📊 Passionate about Python, SQL, Machine Learning & CNN Projects
-##### 🚀 Currently building projects in AI, Data Analysis, Automation & Streamlit
+#### Aspiring Data Analyst & AI/ML Engineer
+#### 📊 Passionate about Python, SQL, Machine Learning & CNN Projects
+#### 🚀 Currently building projects in AI, Data Analysis, Automation & Streamlit
 
 ---
 
